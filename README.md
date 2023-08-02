@@ -1,7 +1,8 @@
 # BowlingChallenge
 • The BowlingGame module should evaluate the score at the end of the game, when all frames have been played. • There is no need to write a UI, just the code to calculate the score is sufficient. • A gutter game (20 times 0 pin) should score 0 • An all one game (20 times 1 pin) should score 20 • A spare followed by a 3 should score 16 • A strike followed by a 3 and a 4 should score 24 • The perfect game (12 times 10) should score 300 Scoring Bowling
 
-Rolls 1 – 4 4 – 5 6 - / 5 - / X 0 – 1 7 - / 6 - / X 2 - / - 6 Total score 5 14 29 49 60 61 77 97 117 133
+Rolls         1 – 4   4 – 5   6 - /   5 - /   X     0 – 1   7 - /   6 - /   X     2 - / - 6
+Total score     5       14     29       49    60      61     77       97    117     133
 
 X = Strike / = Spare
 
